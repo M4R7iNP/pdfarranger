@@ -34,6 +34,7 @@ _DEFAULT_ACCELS = [
     ('page-size', 's'),
     ('crop', 'c'),
     ('hide', 'h'),
+    ('split', 'x'),
     ('rotate(90)', '<Primary>Right'),
     ('rotate(-90)', '<Primary>Left'),
     ('save', '<Primary>s'),
